@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldersReader", "FoldersReader\FoldersReader.csproj", "{3DA8A4DE-5AA9-40ED-A60D-2BBB86C8E485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA8A4DE-5AA9-40ED-A60D-2BBB86C8E485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA8A4DE-5AA9-40ED-A60D-2BBB86C8E485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA8A4DE-5AA9-40ED-A60D-2BBB86C8E485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA8A4DE-5AA9-40ED-A60D-2BBB86C8E485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {015795C0-BC54-4D03-A7B2-BB030CC8D3D7}
+	EndGlobalSection
+EndGlobal
